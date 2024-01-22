@@ -1,0 +1,11 @@
+{
+  "caseId" : "1010851024_443239094",
+  "kbCode" : "TEST1",
+  "site" : "",
+  "senderReference" : "{\"caseId\":\"1010851024_443239094\",\"uuidCDS\":\"118cdf2b-6513-4241-8ea1-1bf2d5d4c265\",\"site\":\"900098476\",\"PID\":\"RC\",\"PID2\":\"1010851024\",\"PID3\":\"443239094\",\"episodeDate\":\"20230821142956\",\"SampleID\":\"\",\"FechaRegistroOrden\":\"20230821142956\",\"MedicoPeticionarioID\":\"5000\",\"SedeSynlabPresentacion\":\"443\",\"CodigoPlanCliente\":\"14050\",\"NIT\":\"900098476\",\"RazonSocial\":\"FUNDACION HOSPITAL INFANTIL UNIVERSITARIO DE SAN JOSE\",\"EdadPaciente\":1,\"PatientSex\":\"F\"}",
+  "report" : "",
+  "actions" : [ ],
+  "approved" : false,
+  "reviewer" : "LABWIZ",
+  "commentIds" : [ ]
+}
