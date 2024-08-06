@@ -12,7 +12,7 @@ var reviewer = msg.reviewer;
 var DATETIMEVALID = DateUtil.getCurrentDate("YYYY-MM-dd HH:mm:ss");
 var actions =  JSON.stringify(msg.actions);
 var report =  msg.report.replace("Action\n","");
-if (actions != "" || report !=""){
+if (actions != "[]" || report !=""){
 		var insert = "INSERT INTO statistics.response "
 		insert +=" (caseId, uuidCDS, kbCode, approved, reviewer, DATETIMEVALID, actions, report) ";
 		insert += " VALUES('"+caseId+"','"+uuidCDS+"','"+kbCode+"','"+approved+"','"+reviewer+"','"+DATETIMEVALID+"','"+actions+"','"+report+"')";
