@@ -12,7 +12,6 @@ Este proyecto contiene un conjunto de scripts y archivos de configuración utili
 - **📜 outcoming_statistics_scripts.js**: Scripts utilizados para generar estadísticas salientes.
 - **📄 README.md**: Este archivo, que proporciona una descripción general del proyecto.
 - **📄 statistics.xml**: Archivo de configuración para estadísticas.
-- **📄 SY01_CO_CDS_Integración Diseño Funcional.pdf**: Documento PDF que describe el diseño funcional de la integración CDS.
 - **📄 SY01_Colombia_Phase_2.xml**: Archivo de configuración para la fase 2 de la integración en Colombia.
 - **📄 Test Env.xml**: Archivo de configuración del entorno de pruebas.
 
@@ -43,5 +42,3 @@ Para utilizar este proyecto, asegúrese de tener Mirth Connect instalado y confi
 Las contribuciones a este proyecto son bienvenidas. Por favor, envíe un pull request o informe de problemas en el repositorio correspondiente.
 
 ## 📜 Licencia
-
-Este proyecto está licenciado bajo los términos de la licencia MIT. Consulte el archivo LICENSE para obtener más detalles.
